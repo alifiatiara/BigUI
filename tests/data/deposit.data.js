@@ -1,3 +1,3 @@
 export const AMOUNT_DEPOSIT= {
-    amount_Deposit : 1000,
+    amount_Deposit : 100000,
 }
