@@ -1,0 +1,6 @@
+export const custLogin = '.borderM > :nth-child(1) > .btn'
+export const managerLogin = ':nth-child(3) > .btn'
+export const userSelect = '#userSelect'
+export const logincustSelect = 'form.ng-valid > .btn'
+export const formgroup = '.form-group'
+export const userName = 'Neville Longbottom'
